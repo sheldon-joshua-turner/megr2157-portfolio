@@ -12,4 +12,4 @@
 ## Communicate
 
 ##Final Part:
-[A3_Circular_Beam](assets/documents/project-spec.pdf)
+[A3_Circular_Beam](A3_BAR.SLDPRT)
