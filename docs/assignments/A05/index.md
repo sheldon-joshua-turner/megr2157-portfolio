@@ -20,6 +20,7 @@ For this assignment I am choosing to use Grade 5 Titanium
 E(Elastic Modulus) = 65000 Ksi
 σy(Yield Strength) = 160 ksi / 3.5 gives the allowablle stress (σ_allowble) of 45 ksi.
 
+https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/3a0dc7e56f4311b46bb4e9ce5f349696f76b012f/docs/assignments/A05/Screenshot%202026-09-24%20081212.png
 
 #Feature A
 Initial Information:
@@ -31,6 +32,9 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 1.20in would be my nominal dimension for this diameter. 
+
+docs/assignments/A05/Screenshot 2026-09-24 081145.png
+
 #Feature B
 Initial Information:
 
@@ -41,6 +45,8 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
+docs/assignments/A05/Screenshot 2026-09-24 081150.png
+
 #Feature C
 Initial Information:
 
@@ -51,6 +57,7 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
+docs/assignments/A05/Screenshot 2026-09-24 081155.png
 #Feature D
 Initial Information:
 
@@ -61,6 +68,7 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
+docs/assignments/A05/Screenshot 2026-09-24 081200.png
 #Feature E
 Initial Information:
 
@@ -69,11 +77,23 @@ A-Stress & Stiffness Analysis
 
 After gathering all of my information I calculated a stress and stiffness analysis on feature B using provided equations. 
 A-Conclusion
-
+docs/assignments/A05/Screenshot 2026-09-24 081204.png
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
 
-## Decide
+## Conclusion
+
+Lessons Learned
+
+For this assignment I learned how to apply solid mechanics knowledge to analyze the stress and stiffness of a metal fixture.
+Governing Failure Mode:
+For every single feature, stress governed the dimensions. Shear was ignored. 
+Error propagation:
+
+The forces became loading forces for all of the other features, they just built on one another. 
+Assumption Sensitivity:
+
+For the material assumption, one important consideration is the surrounding environment conditions. For the sake of this assignment they were left out to keep it simple. 
+Metals are more conductive to heat, so considering things like thermal expansion or live loads caused by external weather. 
 
 
-## Communicate
 
