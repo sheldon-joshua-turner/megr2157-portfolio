@@ -22,7 +22,7 @@ E(Elastic Modulus) = 65000 Ksi
 
 ![Interim Calculations](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081212.png)
 
-#Feature A
+## Feature A
 Initial Information:
 
 I started by listing my knowns and unknowns to organize my calculations. 
@@ -35,7 +35,7 @@ After solving both algebraically and numerically, I found that the stress value 
 ![Strength And Stiffness For Part A](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/b9f69533b5823ad7bb810447f2a8d6aee76b8bfc/docs/assignments/A05/Screenshot%202026-09-24%20081145.png)
 
 
-#Feature B
+## Feature B
 Initial Information:
 
 I started by listing my knowns and unknowns to organize my calculations, and repeated the same process for Feature B. 
@@ -47,7 +47,7 @@ A-Conclusion
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
 
 ![Strength And Stiffness For Part B](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081150.png)
-#Feature C
+## Feature C
 Initial Information:
 
 I started by listing my knowns and unknowns to organize my calculations, and repeated the same process for Feature B. 
@@ -60,7 +60,7 @@ After solving both algebraically and numerically, I found that the stress value 
 
 ![Strength And Stiffness For Part C](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081155.png)
 
-#Feature D
+## Feature D
 Initial Information:
 
 I started by listing my knowns and unknowns to organize my calculations, and repeated the same process for Feature B. 
@@ -74,7 +74,7 @@ After solving both algebraically and numerically, I found that the stress value 
 ![Strength And Stiffness For Part D](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081200.png)
 
 
-#Feature E
+## Feature E
 Initial Information:
 
 I started by listing my knowns and unknowns to organize my calculations, and repeated the same process for Feature B. 
