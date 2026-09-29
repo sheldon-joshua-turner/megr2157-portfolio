@@ -20,7 +20,7 @@ For this assignment I am choosing to use Grade 5 Titanium
 E(Elastic Modulus) = 65000 Ksi
 σy(Yield Strength) = 160 ksi / 3.5 gives the allowablle stress (σ_allowble) of 45 ksi.
 
-![Example Image](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/b9f69533b5823ad7bb810447f2a8d6aee76b8bfc/docs/assignments/A05/Screenshot%202026-09-24%20081145.png)
+![Interim Calculations](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081212.png)
 
 #Feature A
 Initial Information:
@@ -32,8 +32,8 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 1.20in would be my nominal dimension for this diameter. 
+![Strength And Stiffness For Part A](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/b9f69533b5823ad7bb810447f2a8d6aee76b8bfc/docs/assignments/A05/Screenshot%202026-09-24%20081145.png)
 
-docs/assignments/A05/Screenshot 2026-09-24 081145.png
 
 #Feature B
 Initial Information:
@@ -45,8 +45,8 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
-docs/assignments/A05/Screenshot 2026-09-24 081150.png
 
+![Strength And Stiffness For Part B](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081150.png)
 #Feature C
 Initial Information:
 
@@ -57,7 +57,9 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
-docs/assignments/A05/Screenshot 2026-09-24 081155.png
+
+![Strength And Stiffness For Part C](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081155.png)
+
 #Feature D
 Initial Information:
 
@@ -68,7 +70,10 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
-docs/assignments/A05/Screenshot 2026-09-24 081200.png
+
+![Strength And Stiffness For Part D](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081200.png)
+
+
 #Feature E
 Initial Information:
 
@@ -79,6 +84,9 @@ After gathering all of my information I calculated a stress and stiffness analys
 A-Conclusion
 docs/assignments/A05/Screenshot 2026-09-24 081204.png
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. 0.005in would be my nominal dimension for this length.
+
+
+![Strength And Stiffness For Part E](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/2d8ef9c51cea7731d3aaba4f30ef91da050d80c5/docs/assignments/A05/Screenshot%202026-09-24%20081204.png)
 
 ## Conclusion
 
