@@ -20,7 +20,7 @@ For this assignment I am choosing to use Grade 5 Titanium
 E(Elastic Modulus) = 65000 Ksi
 σy(Yield Strength) = 160 ksi / 3.5 gives the allowablle stress (σ_allowble) of 45 ksi.
 
-https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/3a0dc7e56f4311b46bb4e9ce5f349696f76b012f/docs/assignments/A05/Screenshot%202026-09-24%20081212.png
+![Example Image](docs/assignments/A05/Screenshot 2026-09-24 081145.png)
 
 #Feature A
 Initial Information:
