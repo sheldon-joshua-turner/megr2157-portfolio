@@ -14,13 +14,13 @@ I used the dimensions and picture of this motor as a reference to adjust my dime
 https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100 
 1.png
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/PA28-28245800-G100-500x500.jpg)
+![Motor Picture](PA28-28245800-G100-500x500.jpg)
 
 Initially, before I started the assignment, I took the time to decide which material would be the most applicable to the mount's usecase. I ended up choosing ABS because it has a high rigidity, high strain resistance, and can remain stable for long periods of time. Next, I used the linked websites to find
 the Young's Modulus and yield strength of ABS to begin calculations. 
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/1.png)
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/2.png)
+![Motor Picture](1.png)
+![Motor Picture](2.png)
 
 
 ## FEATURE 1
@@ -30,12 +30,12 @@ would be an appropriate minimum to design around.
 
 Listed knowns & unknowns:
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/3.png)
+![Motor Picture](/3.png)
 
 
 For the first feature, the strength value I calculated was larger, so I selected it as the final value for the base: 2.051 mm.
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/4.png)
+![Motor Picture](4.png)
 
 
 ## FEATURE 2
@@ -52,46 +52,46 @@ I then repeated the same process for feature 2: listed knowns and unknowns, Next
  
  
  
- ![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/5.png)
+ ![Motor Picture](5.png)
  
  
  
  I completed a sketch to describe the design's dimensions. 
  
-  ![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/5b.png)
+  ![Motor Picture](5b.png)
  
  ## SOLIDWORKS
  I began by defining each of my calculated and pre-determined values as equations prior to the parametric modeling process. 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/eqs.png)
+![Motor Picture](eqs.png)
  
 
 First, I designed Feature 2, and added constraints as necessary. 
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/6.png)
+![Motor Picture](6.png)
 
 Next, I extruded, ensuring my sketch definitions portrayed the holes properly. 
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/7.png)
+![Motor Picture](7.png)
 
 
 [Extruded Part 1]
 
 Next, I did the same for Feature 1. 
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/8.png)
+![Motor Picture](8.png)
 
 I added the hole, the countersink, and the hole that travels through the part. 
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/9.png)
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/10.png)
+![Motor Picture](9.png)
+![Motor Picture](10.png)
 
 Final View of Part:
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04/11.png)
+![Motor Picture](11.png)
 
 ##2157 Students Only: Drawing of Part
 
-![Motor Picture](https://github.com/sheldon-joshua-turner/megr2157-portfolio/blob/dad1d754d9327bb818809526782bdb6dc15bdfb7/docs/assignments/A04//12.png)
+![Motor Picture](12.png)
 
 ## Reflection and Lessons Learned
 
